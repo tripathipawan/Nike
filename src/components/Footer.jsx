@@ -5,12 +5,10 @@ const Footer = () => {
     return (
         <footer className='bg-gray-900 text-gray-300'>
             <div className='max-w-7xl mx-auto px-4 py-10 grid grid-cols-2 md:grid-cols-4 gap-8'>
-                {/* company info */}
                 <div>
                     <h2 className='text-xl font-bold text-white mb-4'>Nike Shoes</h2>
                     <p>Discover the latest collection of Nike shoes, blending style and performance to keep you ahead in the game.</p>
                 </div>
-                {/* quick links */}
                 <div>
                     <h2 className='text-xl font-bold text-white mb-4'>Quick Links</h2>
                     <ul className='space-y-2'>
