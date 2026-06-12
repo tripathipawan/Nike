@@ -27,7 +27,7 @@ const ResponsiveMenu = ({showMenu, setShowMenu}) => {
         </nav>
       </div>
       <div>
-        <h1>Made with ❤️❤️ by Pawan Tripathi</h1>
+        <h1>Made with heart by Pawan Tripathi</h1>
       </div>
     </div>
   )
